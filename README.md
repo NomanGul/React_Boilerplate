@@ -1,6 +1,7 @@
 Hi there,
 
-I'm [Noman Gul](https://noman-gul.firebaseapp.com). I'm Started Learning React.js & React Native from [Saylani Mass Training Program Facebook Group](https://fb.com/groups/SaylaniSG). Recently, I'm eliminated from this Program but not stopping learning from SMT.
+I'm [Noman Gul](https://noman-gul.firebaseapp.com). I'm Started Learning React.js & React Native from [Saylani Mass Training Program Facebook Group](https://fb.com/groups/SaylaniSG).
+Recently, I'm eliminated from this Program but not stopping learning from SMT.
 
 Below you will find some information on how to perform common tasks.<br>
 
